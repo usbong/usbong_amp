@@ -8,15 +8,15 @@ The app creates static noise to defensively resolve, to a certain extent, the is
 
 Other than this app, here are more possible solutions:
 
-a) produce own "noise" to drown out the noise
-b) leave the house, and come back after awhile
-c) use a jammer
-d) take down the cell site (signal tower)
-e) endure
-f) wait until the source of noise runs out of energy
-g) talk to the source of the noise, which only results to more unnecessary noise/signals
-h) listen to music
-i) create an echo/audio feedback loop
+1) produce own "noise" to drown out the noise
+2) leave the house, and come back after awhile
+3) use a jammer
+4) take down the cell site (signal tower)
+5) endure
+6) wait until the source of noise runs out of energy
+7) talk to the source of the noise, which only results to more unnecessary noise/signals
+8) listen to music
+9) create an echo/audio feedback loop
 --> e.g. speaker and mic; radio host and telephone caller; two mirrors reflecting each other; a person dreaming a dream, where he/she is dreaming a dream, where he/she is dreaming a dream..., i.e. a dream within a dream, within a dream, within a dream...
 
 # Official Company Website
