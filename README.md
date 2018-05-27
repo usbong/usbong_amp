@@ -17,6 +17,7 @@ Other than this app, here are more possible solutions:
 7) talk to the source of the noise, which only results to more unnecessary noise/signals
 8) listen to music
 9) create an echo/audio feedback loop
+
 --> e.g. speaker and mic; radio host and telephone caller; two mirrors reflecting each other; a person dreaming a dream, where he/she is dreaming a dream, where he/she is dreaming a dream..., i.e. a dream within a dream, within a dream, within a dream...
 
 # Official Company Website
