@@ -12,7 +12,7 @@ Other than this app, here are more possible solutions:
 2) leave the house, and come back after awhile
 3) use a jammer
 4) take down the cell site (signal tower)
-5) endure
+5) endure/ignore
 6) wait until the source of noise runs out of energy
 7) talk to the source of the noise, which only results to more unnecessary noise/signals
 8) listen to music
