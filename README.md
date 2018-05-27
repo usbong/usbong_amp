@@ -18,6 +18,11 @@ Other than this app, here are more possible solutions:
 8) listen to music
 9) create an echo/audio feedback loop<br>
 --> e.g. speaker and mic; radio host and telephone caller; two mirrors reflecting each other; a person dreaming a dream, where he/she is dreaming a dream, where he/she is dreaming a dream..., i.e. a dream within a dream, within a dream, within a dream...
+10) use the open source Audacity software to create noise<br>
+a) https://www.audacityteam.org/; last accessed: 20180527<br>
+b) https://github.com/audacity/audacity; last accessed: 20180527<br>
+11) read the following book/product overview from the Usbong Store<br>
+https://store.usbong.ph/w/The-Doctor-and-the-Soul-Viktor-Frankl-M.D./422; last accessed: 20180527
 
 # Official Company Website
 http://www.usbong.ph
